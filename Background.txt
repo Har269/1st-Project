@@ -4,7 +4,7 @@
   <title>Your Website</title>
   <style>
     body {
-      background-image: url("path/to/your/image.jpg");
+      background-image: url("D:\Lamborghini-removebg-preview.png");
       background-size: cover;
       background-position: center;
     }
